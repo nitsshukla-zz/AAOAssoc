@@ -1,0 +1,23 @@
+
+
+#content {
+    margin:0 auto;
+    width:300px;
+}
+
+/* NewsTicker can be styled to your liking. This is just example styles */
+ul {
+    list-style:none;
+    margin:10px 0;
+    padding:0;
+    
+}
+
+h1 {
+    font-size:20px;
+    margin:10px 0;
+}
+
+p {
+    margin:10px 0;
+}
